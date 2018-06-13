@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-main( )
+int main( )
 {
         printf("hello, rubbish\n");
 	a = 1;
