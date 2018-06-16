@@ -3,6 +3,6 @@
 int main( )
 {
         printf("hello, rubbish\n");
-	a = 1;
+	a = 122;
 }
 
